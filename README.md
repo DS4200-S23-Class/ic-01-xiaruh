@@ -19,7 +19,7 @@ The purpose of this assignment is to learn about Git, GitHub, and GitHub Pages. 
 
 1. From your remote repo, create a GitHub Page for your repo. Step-by-step instructions are [here](https://docs.github.com/en/pages/quickstart), **start on step 3**.  
 
-1. In the local copy of your repo, Add the link to your GitHub Page **HERE**. 
+1. In the local copy of your repo, Add the link to your GitHub Page **https://github.com/DS4200-S23-Class/ic-01-xiaruh**. 
 
 1. Push your change to your remote repo. 
 
